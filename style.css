@@ -14,4 +14,5 @@ h1 h2{
 #parent{
     background: paleturquoise;
     height: 100px;
+    width: 100%;
 }
