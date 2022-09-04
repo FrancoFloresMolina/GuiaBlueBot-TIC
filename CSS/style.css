@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    
 }
 
 body{
@@ -20,12 +21,11 @@ h1 h2{
     margin: 0px auto;
     text-align: center;
     line-height: 100px;
-    border-bottom: 4px solid black;
+    border: 1px solid black;
+    
 }
 
-.contenido{
 
-}
 
 nav ul li{
     list-style: none;
