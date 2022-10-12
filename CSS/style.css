@@ -39,9 +39,10 @@ nav ul li{
 
 .Menu {
 
-    margin-right: 50px;
-    text-align: center;
+    margin-right: 30px;
+    float: left;
     
+<<<<<<< HEAD
 
 >>>>>>> 4a2a0c5d5a81a15c25613c621ef44f550e49434b
 }
@@ -55,3 +56,11 @@ nav ul li{
 
 }
 
+=======
+}
+
+img{
+    height: 110px;
+    width: 110px;   
+}
+>>>>>>> e2b20f04732d37eabbf90fccc7d7176c6bc27002
