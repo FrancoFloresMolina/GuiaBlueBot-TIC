@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    
 }
 
 body{
@@ -16,34 +17,68 @@ h1 h2{
 }
 
 #parent{
+<<<<<<< HEAD
 
     background: paleturquoise;
+=======
+    
+    background: cadetblue;
+>>>>>>> b529be7cb6b3550eb21066230e4e960ef1b777df
     height: 100px;
     width: 100%;
-    margin: 0px;
+    margin: 0px auto;
     text-align: center;
     line-height: 100px;
+<<<<<<< HEAD
     border-bottom: 4px solid black;
 
 }
 
 nav ul li {
 
-    list-style: none;
-    margin: 80px
+=======
+    border: 1px solid black;
     
+}
+
+
+
+nav ul li{
+>>>>>>> b529be7cb6b3550eb21066230e4e960ef1b777df
+    list-style: none;
+    margin: 10px;    
+    margin: 80px;
 }
 
 .Menu {
 
     margin-right: 30px;
     float: left;
-    
 }
 
+<<<<<<< HEAD
 img {
 
     height: 110px;
     width: 110px;
     
 }
+=======
+.Menu {
+
+    margin-right: 50px;
+    text-align: center;
+    
+        
+
+}
+
+
+
+
+img{
+    height: 110px;
+    width: 110px;   
+}
+
+>>>>>>> b529be7cb6b3550eb21066230e4e960ef1b777df
