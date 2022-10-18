@@ -5,22 +5,32 @@
 }
 
 body{
+
     background: moccasin;
+
 }
 
 h1 h2{
 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
 #parent{
-    
+
+    background: paleturquoise;
     background: cadetblue;
     height: 100px;
     width: 100%;
     margin: 0px auto;
     text-align: center;
     line-height: 100px;
+    border-bottom: 4px solid black;
+
+}
+
+nav ul li {
+
     border: 1px solid black;
     
 }
@@ -39,6 +49,14 @@ nav ul li{
     float: left;
 }
 
+
+img {
+
+    height: 110px;
+    width: 110px;
+    
+}
+
 .Menu {
 
     margin-right: 50px;
@@ -55,4 +73,3 @@ img{
     height: 110px;
     width: 110px;   
 }
-
