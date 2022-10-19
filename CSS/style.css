@@ -27,7 +27,7 @@ body{
 }
 
 .cuerpo{
-    
+    --padding-container: 0px;
 }
 
 h1 h2{
