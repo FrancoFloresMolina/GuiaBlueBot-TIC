@@ -23,6 +23,7 @@ body{
     margin: 0 auto;
     overflow: hidden;
     background-color: black;
+    padding: var(--padding-container);
 }
 
 h1 h2{
