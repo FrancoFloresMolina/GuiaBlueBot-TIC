@@ -31,7 +31,7 @@ body{
 }
 
 .cuerpo::before{
-    
+    content: "";
 }
 
 .nav{
