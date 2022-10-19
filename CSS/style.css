@@ -32,6 +32,7 @@ body{
 
 .cuerpo::before{
     content: "";
+    position: absolute;
 }
 
 .nav{
