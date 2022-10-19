@@ -27,11 +27,11 @@ body{
 }
 
 .cuerpo{
-    --padding-container: 0px;
+    
 }
 
 .nav{
-    
+    --padding-container: 0px;
 }
 
 h1 h2{
