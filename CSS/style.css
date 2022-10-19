@@ -4,7 +4,7 @@
 
 :root{
     --padding-container: 100px 0px;
-    --color-titulo: #001a49
+    --color-titulo: blue
 }
 
 body{
@@ -27,8 +27,7 @@ body{
     min-height: 600px;
     max-height: 800px;
     position: relative;
-    display: grid;
-    grid-template-rows: 100px 1fr; 
+    display: grid; 
 }
 
 .nav{
