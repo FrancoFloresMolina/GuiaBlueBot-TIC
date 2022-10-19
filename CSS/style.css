@@ -30,6 +30,10 @@ body{
     display: grid; 
 }
 
+.cuerpo::before{
+    
+}
+
 .nav{
     --padding-container: 0px;
 }
