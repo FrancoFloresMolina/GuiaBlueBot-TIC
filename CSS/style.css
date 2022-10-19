@@ -17,6 +17,7 @@ body{
     max-width: 1200px;
     margin: 0 auto;
     overflow: hidden;
+    background-color: black;
 }
 
 h1 h2{
