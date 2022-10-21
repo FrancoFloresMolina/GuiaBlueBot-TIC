@@ -68,6 +68,7 @@ body{
 
 .nav_links{
     color: white;
+    text-decoration: none;
 }
 
 .nav_menu{
