@@ -59,6 +59,7 @@ body{
 
 .nav_link{
     margin-left: auto;
+    padding: 0;
 }
 
 .nav_menu{
