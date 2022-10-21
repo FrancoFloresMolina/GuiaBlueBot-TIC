@@ -73,6 +73,6 @@ body{
 }
 
 .nav_salir{
-    
+    display: var(--show, none);
 }
 
