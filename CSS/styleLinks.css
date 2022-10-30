@@ -6,5 +6,5 @@
 .alum_adult{
     min-height: 400px;
     display: flex;
-  
+    align-items: center;
 }
