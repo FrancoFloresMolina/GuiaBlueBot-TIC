@@ -9,6 +9,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    background-image: url(../imagenes/nasa-Q1p7bh3SHj8-unsplash.jpg);
+    
 
 }
 
