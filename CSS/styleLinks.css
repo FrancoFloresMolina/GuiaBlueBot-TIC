@@ -24,4 +24,5 @@
 .link_blue2{
     display: inline-block;
     background-color: dodgerblue;
+    justify-self: center;
 }
