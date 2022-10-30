@@ -1,58 +1,129 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+
+
+
+:root{
+    --padding-container: 100px 0px;
+    --color-titulo: blue
 }
 
 body{
-    background: moccasin;
-}
-
-h1 h2{
-
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-#parent{
+    font-family: 'Poppins', sans-serif;
     
-    background: cadetblue;
-    height: 100px;
+
+}
+
+.container{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: var(--padding-container);
+}
+
+.cuerpo{
     width: 100%;
-    margin: 0px auto;
-    text-align: center;
-    line-height: 100px;
-    border: 1px solid black;
+    height: 100vh;
+    min-height: 600px;
+    max-height: 800px;
+    position: relative;
+    display: grid; 
+    grid-template-rows: 100px 1fr;
     
 }
 
+.cuerpo::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(180deg, #0000008c 0%, #0000008c 100%), url('../imagenes/robynne-hu-HOrhCnQsxnQ-unsplash.jpg');
+    background-size: cover;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    z-index: -1;
+}
 
+.nav1{
+    --padding-container: 0px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
 
-nav ul li{
+.titulo{
+    font-weight: 300;
+    color: white;
+}
+
+.nav_items{
     list-style: none;
-    margin: 10px;    
-    margin: 80px;
 }
 
-.Menu {
-
-    margin-right: 30px;
-    float: left;
+.nav_link{
+    margin-left: auto;
+    padding: 0;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: max-content;
+    gap: 2em;
 }
 
-.Menu {
+.nav_links{
+    color: white;
+    text-decoration: none;
+}
 
-    margin-right: 50px;
+.nav_menu{
+    margin-left: auto;
+    cursor: pointer;
+    display: none;
+}
+
+.nav_imagen{
+    display: block;
+    width: 30px;
+}
+
+.nav_salir{
+    display: var(--show, none);
+}
+
+
+.sec_container{
+    max-width: 800px;
+    --padding-container:0px;
+    display: grid;
+    grid-auto-rows: max-content;
+    align-content: center;
+    gap: 1em;
+    padding-bottom: 100px;
     text-align: center;
-    
-        
+    color: white;
+}
 
+.sub_titulo{
+    font-size: 3rem;
+}
+
+.parrafo_del_sub{
+    margin-bottom: 20px;
 }
 
 
-
-
-img{
-    height: 110px;
-    width: 110px;   
+.cta{
+    display: inline-block;
+    background-color: dodgerblue;
+    justify-self: center;
+    color: white;
+    text-decoration: none;
+    padding: 13px 20px;
+    border-radius: 30px;
 }
 
+.nombres_apell{
+    color: white;
+    text-align: center;
+}
