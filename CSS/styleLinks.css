@@ -25,4 +25,6 @@
     display: inline-block;
     background-color: dodgerblue;
     justify-self: center;
+    color: white;
+    text-decoration: none;
 }
