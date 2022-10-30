@@ -9,6 +9,17 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    background-image: url(../imagenes/nasa-Q1p7bh3SHj8-unsplash.jpg);
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    z-index: -1;
+    
 
 }
 
@@ -20,6 +31,7 @@
     text-decoration: none;
     padding: 13px 20px;
     border-radius: 30px;
+    list-style: none;
 }
 .link_blue2{
     display: inline-block;
@@ -29,5 +41,6 @@
     text-decoration: none;
     padding: 13px 20px;
     border-radius: 30px;
+    list-style: none;
 }
 
