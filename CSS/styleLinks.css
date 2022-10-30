@@ -12,7 +12,7 @@
 
 }
 
-.tic_blue{
+.link_blue1{
     display: inline-block;
     background-color: dodgerblue;
     justify-self: center;
@@ -20,4 +20,7 @@
     text-decoration: none;
     padding: 13px 20px;
     border-radius: 30px;
+}
+.link_blue2{
+    
 }
