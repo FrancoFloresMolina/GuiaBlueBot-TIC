@@ -23,9 +23,6 @@
 
 }
 
-.coloc_blue{
-    
-}
 
 .link_blue1{
     display: inline-block;
@@ -36,6 +33,9 @@
     padding: 13px 20px;
     border-radius: 30px;
     list-style: none;
+    margin-left: auto;
+    padding: 0;
+    display: flex;
 }
 .link_blue2{
     display: inline-block;
@@ -46,5 +46,8 @@
     padding: 13px 20px;
     border-radius: 30px;
     list-style: none;
+    margin-left: auto;
+    padding: 0;
+    display: flex;
 }
 
