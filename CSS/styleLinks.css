@@ -15,4 +15,5 @@
 .tic_blue{
     display: inline-block;
     background-color: dodgerblue;
+    justify-self: center;
 }
