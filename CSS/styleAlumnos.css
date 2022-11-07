@@ -8,5 +8,5 @@ body {
 .contenido{
     max-width: 900px;
     display: grid;
-    
+    grid-auto-rows: max-content;
 }
