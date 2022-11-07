@@ -55,7 +55,6 @@ body{
 
 .titulo{
     font-weight: 300;
-    color: white;
 }
 
 .nav_items{
@@ -130,4 +129,5 @@ body{
 
 .logo1{
     padding-top: 60px;
+    color: white;
 }
