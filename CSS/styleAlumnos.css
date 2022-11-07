@@ -11,4 +11,5 @@ body {
     grid-auto-rows: max-content;
     align-content: center;
     gap: 2em;
+    padding-bottom: 200px;
 }
