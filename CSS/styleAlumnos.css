@@ -10,4 +10,5 @@ body {
     display: grid;
     grid-auto-rows: max-content;
     align-content: center;
+    gap: 2em;
 }
