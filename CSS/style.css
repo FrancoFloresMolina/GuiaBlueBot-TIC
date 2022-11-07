@@ -128,6 +128,12 @@ body{
 }
 
 .logo1{
-    padding-top: 35px;
     color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.titulo{
+    border: 0px;
+    margin-left: 640px;
 }
