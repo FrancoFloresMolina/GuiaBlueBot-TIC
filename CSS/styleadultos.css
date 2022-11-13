@@ -8,6 +8,12 @@
     box-sizing: border-box;
 }
 
+.formulario{
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+
 body {
     background-image: url(../imagenes/jackson-hendry-eodA_8CTOFo-unsplash.jpg);
     background-repeat: no-repeat;
