@@ -37,3 +37,12 @@ header{
     padding-bottom: 200px;
     text-align: center;
 }
+
+
+.contenido{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+
+}
