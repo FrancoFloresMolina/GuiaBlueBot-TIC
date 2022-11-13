@@ -81,3 +81,8 @@ nav{
     text-transform: uppercase;
     font-weight: 600;
 }
+
+
+.nav-menu li a.avtive, .nav-menu li a:hover{
+    
+}
