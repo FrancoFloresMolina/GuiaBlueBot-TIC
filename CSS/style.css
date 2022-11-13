@@ -55,7 +55,6 @@ body{
 
 .titulo{
     font-weight: 300;
-    color: white;
 }
 
 .nav_items{
@@ -126,4 +125,15 @@ body{
 .nombres_apell{
     color: white;
     text-align: center;
+}
+
+.logo1{
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.titulo{
+    border: 0px;
+    margin-left: 640px;
 }
