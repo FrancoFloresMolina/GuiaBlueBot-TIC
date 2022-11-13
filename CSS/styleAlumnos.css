@@ -131,6 +131,7 @@ nav{
         display: inline-block;
         line-height: 100px;
         margin: 0 20px;
+        transition: none;
     }
     
 }
