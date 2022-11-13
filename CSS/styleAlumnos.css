@@ -130,6 +130,7 @@ nav{
     .nav-menu li{
         display: inline-block;
         line-height: 100px;
+        margin: 0 20px;
     }
     
 }
