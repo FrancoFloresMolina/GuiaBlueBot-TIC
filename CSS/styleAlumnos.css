@@ -97,5 +97,5 @@ nav{
 }
 
 #check:checked ~ .nav-menu li{
-    
+    display: block;
 }
