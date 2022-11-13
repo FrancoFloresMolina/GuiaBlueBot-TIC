@@ -124,6 +124,7 @@ nav{
         background: none;
         transition: none;
         text-align: right;
+        margin-right: 50px;
     }
     
 }
