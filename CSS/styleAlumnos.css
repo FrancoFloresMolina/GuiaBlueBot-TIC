@@ -70,4 +70,5 @@ nav{
 
 .nav-menu li{
     display: block;
+    line-height: 30px;
 }
