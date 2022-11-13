@@ -14,6 +14,7 @@
     border-radius: 1em;
 }
 body {
+    font-family: "Montserrat", sans-serif;
     background-image: url(../imagenes/jackson-hendry-eodA_8CTOFo-unsplash.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
