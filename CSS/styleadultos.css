@@ -109,5 +109,9 @@ nav{
     height: 100vh;
 }
 
+#check:checked ~ .nav-menu li{
+    display: block;
+}
+
 
 
