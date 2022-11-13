@@ -128,7 +128,7 @@ nav{
     }
 
     .nav-menu li{
-        
+        display: inline-block;
     }
     
 }
