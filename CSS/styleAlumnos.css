@@ -69,5 +69,5 @@ nav{
 }
 
 .nav-menu li{
-    
+    display: block;
 }
