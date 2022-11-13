@@ -93,5 +93,5 @@ nav{
 }
 
 #check:checked ~ .nav-menu{
-    
+    height: 100vh;
 }
