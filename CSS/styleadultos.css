@@ -87,4 +87,12 @@ nav{
     transition: all .5%;
 }
 
+.nav-menu li a{
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+
 
