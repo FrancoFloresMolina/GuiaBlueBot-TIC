@@ -76,5 +76,6 @@ nav{
 }
 
 .nav-menu li a{
-    
+    color: #fff;
+    font-size: 16px;
 }
