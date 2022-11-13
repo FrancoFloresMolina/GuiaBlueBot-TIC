@@ -84,5 +84,6 @@ nav{
 
 
 .nav-menu li a.avtive, .nav-menu li a:hover{
-    
+    color: rgb(248, 8, 8);
+
 }
