@@ -123,6 +123,7 @@ nav{
         top: 0;
         background: none;
         transition: none;
+        text-align: right;
     }
     
 }
