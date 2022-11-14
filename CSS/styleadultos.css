@@ -117,6 +117,10 @@ h2{
     color: mediumvioletred;
 }
 
+p{
+    
+}
+
 @media screen and (min-width: 768px){
     .logo{
         margin-left: 50px;
