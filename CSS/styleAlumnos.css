@@ -6,6 +6,10 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+    background-image: url(../imagenes/jackson-hendry-eodA_8CTOFo-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .formulario{
@@ -19,10 +23,7 @@ body {
 header{
     width: 100%;
     height: 100vh;
-    background-image: url(../imagenes/jackson-hendry-eodA_8CTOFo-unsplash.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+
 }
 
 .articulo{
