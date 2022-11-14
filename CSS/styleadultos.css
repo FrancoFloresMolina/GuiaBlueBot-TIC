@@ -19,7 +19,7 @@ body {
     background-image: url(../imagenes/jackson-hendry-eodA_8CTOFo-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: fixed;
 }
 
 header{
