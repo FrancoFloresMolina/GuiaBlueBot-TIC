@@ -6,10 +6,7 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
-    background-image: url(../imagenes/jackson-hendry-eodA_8CTOFo-unsplash.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    
 }
 
 .formulario{
@@ -19,6 +16,10 @@
 }
 body {
     font-family: "Montserrat", sans-serif;
+    background-image: url(../imagenes/jackson-hendry-eodA_8CTOFo-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
 }
 header{
     width: 100%;
