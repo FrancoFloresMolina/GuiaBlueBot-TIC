@@ -113,8 +113,8 @@ nav{
     display: block;
 }
 
-h2 p{
-    
+h2{
+    color: mediumvioletred;
 }
 
 @media screen and (min-width: 768px){
