@@ -7,6 +7,22 @@
     <title>Secreto</title>
 </head>
 <body>
-    
+    <div class="parent">
+        <div class="Formulario">
+            <form action="script.js/script.js" method="post">
+                <fieldset>
+                    <legend>Hola han encontrado el pequeño secreto</legend>
+                    <ul>
+                        <li>
+                            <input type="text" id="entrada" name="nombre" placeholder="Nombre">
+                        </li>
+                        <li>
+                            <input type="button" onclick="boton(getElementById('entrada').value)" value="Enviar">
+                        </li>
+                    </ul>
+                </fieldset>
+            </form>
+        </div>
+    </div>
 </body>
 </html>
