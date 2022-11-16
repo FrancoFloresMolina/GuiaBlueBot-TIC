@@ -12,7 +12,7 @@ function creacioncomentarios(tex, tex2){
         element.style.setProperty("color", "blue");
     }else{
         if(tex.length<1){
-            
+            element.classList.remover("submit");
         }
     }
 }
