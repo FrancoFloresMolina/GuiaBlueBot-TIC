@@ -10,5 +10,9 @@ function creacioncomentarios(tex, tex2){
         document.getElementById("texto").innerHTML=r1;
         element.classList.add("submit");
         element.style.setProperty("color", "blue");
+    }else{
+        if(tex.length<1){
+            
+        }
     }
 }
