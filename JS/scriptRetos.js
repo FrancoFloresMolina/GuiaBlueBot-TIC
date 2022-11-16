@@ -14,6 +14,7 @@ function creacioncomentarios(tex, tex2){
         if(tex.length<1){
             element.classList.remover("submit");
             r1= "Porfavor coloque su nombre";
+            document.getElementById("texto").innerHTML=r1
         }
     }
 }
