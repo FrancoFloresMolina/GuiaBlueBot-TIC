@@ -31,7 +31,7 @@ label{
 
 .submit{
     width: 270px;
-    margin: 12px 540px;
+    
     border: black 1px solid;
     border-radius: 16px;
     text-align: center;
@@ -39,6 +39,7 @@ label{
 
 .sub2{
     color: red;
+
 }
 
 .formusecr{
