@@ -7,6 +7,6 @@ function creacioncomentarios(tex, tex2){
 
         element.classList.remover('sub2');
         r1= "Hola bienvenido" + tex;
-        document.getElementById("texto").innerHTML=r1
+        document.getElementById("texto").innerHTML=r1;
     }
 }
