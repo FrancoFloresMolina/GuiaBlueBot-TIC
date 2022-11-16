@@ -19,6 +19,7 @@ function creacioncomentarios(tex, tex2){
         }else{
             element.classList.remover("submit");
             r1= "Porfavor coloque su apellido";
+            document.getElementById("texto").innerHTML=r1;
         }
     }
 }
