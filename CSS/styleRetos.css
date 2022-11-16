@@ -6,4 +6,5 @@
 body{
     background-image: url(../imagenes/imagenes-paisajes-hermosos-atardecer-reflejos-flores.jpg);
     background-size: 100%;
+    background-repeat: no-repeat;
 }
