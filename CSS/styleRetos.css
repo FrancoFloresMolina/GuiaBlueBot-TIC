@@ -45,6 +45,7 @@ label{
     text-align: center;
     transform: scale(0.99s);
     position:  relative;
+    animation-name: mov_boton;
 }
 
 .formusecr{
