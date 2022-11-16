@@ -17,7 +17,7 @@ function creacioncomentarios(tex, tex2){
             document.getElementById("texto").innerHTML=r1
             element.classList.add("sub2");
         }else{
-            
+            element.classList.remover("submit");
         }
     }
 }
