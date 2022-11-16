@@ -30,14 +30,14 @@ label{
 }
 
 .submit{
-    width: 270px;
-    
+    margin: 20px 100px;   
     border: black 1px solid;
     border-radius: 16px;
     text-align: center;
 }
 
 .sub2{
+    margin: 10px 100px;   
     color: red;
     border: black 1px solid;
     border-radius: 16px;
