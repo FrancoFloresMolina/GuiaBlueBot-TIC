@@ -13,6 +13,7 @@ function creacioncomentarios(tex, tex2){
     }else{
         if(tex.length<1){
             element.classList.remover("submit");
+            r1= "Porfavor coloque su nombre";
         }
     }
 }
