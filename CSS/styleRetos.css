@@ -40,6 +40,7 @@ label{
 .sub2{
     color: red;
     border: black 1px solid;
+    border-radius: 16px;
 }
 
 .formusecr{
