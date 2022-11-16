@@ -13,17 +13,17 @@
         <div class="Formulario">
             <form action="JS/scriptRetos.js" method="post">
                 <h2>Coloque su Nombre y Apellido</h2>
-                    <label for="nom">Nombre</label><br>
+                    <label for="nombre">Nombre</label><br>
                     <input type="text" class="formusecr" name="nombre" id="nom" maxlength="30" placeholder="Introducir nombre"><br>
 
                     <br>
 
-                    <label for="apell">Apellido</label><br>
+                    <label for="apellido">Apellido</label><br>
                     <input type="text" class="formusecr" name="apellido" id="apell" maxlength="30" placeholder="Introducir apellido"><br>
 
                     <br>
 
-                    <input type="button" class="boton" id="boton" onclick="boton(getElementById('nom').value.getElementById('apell').value)" value="Enviar">
+                    <input type="button" class="boton" id="boton" onclick="boton(getElementById('nom').value)" value="Enviar">
                     <div>
                        <h1 id="texto"></h1> 
                     </div>
