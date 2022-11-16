@@ -10,10 +10,9 @@
 
 body{
     background-image: url(../imagenes/imagenes-paisajes-hermosos-atardecer-reflejos-flores.jpg);
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
+    background-position: fixed;
 }
 
 form{
