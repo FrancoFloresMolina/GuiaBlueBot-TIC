@@ -31,6 +31,8 @@ label{
 
 .boton{
     width: 270px;
+    margin: 12px 540px;
+    border: black 1px solid;
 }
 
 .formusecr{
