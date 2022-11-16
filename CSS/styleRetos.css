@@ -43,6 +43,7 @@ label{
     border-radius: 16px;
     font-size: 100%;
     text-align: center;
+    transform: scale(0.99s);
 }
 
 .formusecr{
