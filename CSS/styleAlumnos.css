@@ -14,16 +14,15 @@
     border: 1px solid #CCC;
     border-radius: 1em;
 }
-body {
+
+header{
+    width: 100%;
+    height: 100vh;
     font-family: "Montserrat", sans-serif;
     background-image: url(../imagenes/jackson-hendry-eodA_8CTOFo-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: fixed;
-}
-header{
-    width: 100%;
-    height: 100vh;
 
 }
 
