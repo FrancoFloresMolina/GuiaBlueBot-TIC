@@ -20,7 +20,7 @@ header{
     height: 100vh;
     font-family: "Montserrat", sans-serif;
     background-image: url(../imagenes/jackson-hendry-eodA_8CTOFo-unsplash.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-size: cover;
     background-position: fixed;
 
@@ -38,7 +38,7 @@ a{
     text-align: center;
     padding-bottom: 300px;
     gap: 2em;
-    max-width: 1200px;
+    
     grid-auto-rows: max-content;
     align-content: center;
 }
